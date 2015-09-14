@@ -1,0 +1,109 @@
+v0.4.3
+------
+- Adjusted 1.04 engine heat parameters
+- Added kerbas_ad_astra's workaround to fix service bay shielding
+
+v0.4.2
+------
+- Fixed orientation of service pod IVA
+- Fixed podded landing leg missing meshes issue
+- Fixed podded landing leg feet sinking into the ground
+- Fixed missing .dds mipmaps for many parts
+- Added endcap colliders for service bays, improves part shielding
+- Reduced mass of Mk3-9 pod to 2.1, reduced crash tolerance to 14, increased cost to 5600
+
+v0.4.1
+------
+- CTT 2.0 update
+- Fixed scaling method error on RV-105 RCS Thruster Block (for real this time)
+- Slightly reduced diameter of Mk3-9 command node bottom
+- Increased the size of the shroud area on the LV-T95x8, should make it easier to attach things to the other node 
+- Fixed RPM patch for Mk3-9 
+
+v0.4.0
+------
+- Updated to KSP version 1.0
+- Converted all textures to DDS format
+- Removed packaged RasterPropMonitor
+- Updated NearFutureProps package
+- Reduced mass of PPD-24 to 1.5t
+- Removed SAS from PPD-1 and Multipurpose Fuel Tank
+- Singificantly cut RAM footprint of Near Future Props package
+- Added IVA for PPD-1
+-- Still not quite there yet but getting there
+- Mk3-9 IVA improved
+-- Corrected orientation and location of IVA root
+-- Added the small windows to possible clickable view, improved camera locations
+-- Added window meshes
+-- Removed RPM-dependant IVA, now loads a stock IVA when RPM is not present
+- Improved clickability of hatches on PPD-1, PPD-24
+- Improved ladder collider positioning on all objects
+- Remodelled Mk3-9 pod
+-- Now has 1.25m attach node at the top
+-- Improved colliders, hatch detection
+- FL-T6000 Fuel Tank is now the FL-T6000 Service Tank
+-- New model + texture
+-- Added openable cargo compartment
+-- Reblanced mass/contents
+- Added FL-T9000 Service tank (3.75m)
+- LV-T95-8 engine
+-- Can no longer attach parts to nozzles, engine cannot be surface attached
+-- Fixed offset thrust, broken exhaust damage, broken normal map
+-- Added to part test list
+-- New FX and emissives
+-- Now generates small amount of electricity when running
+- Added LV-T18 3.75m engine cluster (high efficiency vacuum)
+- Added LV-T95 0.625m engine (high efficiency vacuum)
+- Fixed scaling method error on RV-105 RCS Thruster Block
+- Added RX-1 Linear RCS Thruster (1 nozzle, orbital)
+- Added RX-15 Bidirectional RCS Thruster Block (45-degree, 2 nozzle, orbital)
+- Added RX-30 Bidirectional RCS Thruster Block (45-degree, 4 nozzle, orbital)
+
+v0.3.1
+------
+- Added support for the Community Tech Tree
+- CLS patch: Made the Mk3-9 pod's top node impassable
+
+v0.3.0
+------
+- WARNING: Delete old NearFutureSpacecraft folder first! Moved props for IVAs to seperate pack!
+- Updated for KSP 0.25
+- Updated part research entry costs
+- Changed part cfg file names (no changes to actual part names)
+- Converted all tga textures to mbm for improved memory use
+- Added normals and texture tweaks to PPD-1 Heavy Command Pod
+- Fixed PPD-1 colliders
+- Mk3-9, Itinerant and PPD-1 have integrated lit windows
+- Added flag decals to Itinerant and Mk3-9
+- Added a ModuleManager patch to add Connected Living Spaces compatibility to all passable parts. ModuleManager is not included in the download
+
+v0.2.1
+------
+- Added PPD-1 Heavy Command Pod
+
+v0.2.0
+------
+- WARNING: SAVE BREAKING UPDATE
+- Updated to KSP 0.24
+- Updated RPM distribution to 0.18
+- Added proper IVA for PPD-24 pod (still WIP)
+- Fixed LT-POD landing leg function, removed blue texture tint
+- Improved textures for the FL-T6000 fuel tank
+- New model and function for RV-105AT RCS block (now 5-way, more shielded)
+- New model for LVT85x8 engine, including heat animation
+- Improved vacuum Isp and reduced atmospheric Isp of LVT85x8 engine
+
+v0.1.1
+------
+- Fixed some useless textures included in the download
+- Added missing low resolution textures
+
+v0.1.0
+------
+- Split from main Near Future Pack
+- Completely new IVA for the Mk3-9 Command pod (though it's still heavily WIP)
+- Fixed mesh errors and smoothing group mismatches on Mk3-9 Command Pod
+- Fixed incorrect orientation of the Mk3-9 IVA
+- Fixed offset thrust on the LV-T85-8 Landing Engine
+- Fixed missing sound on the LV-T85-8 Landing Engine
+- Improved the functioning of the LT-POD landing leg (too soon to call it fixed though)
