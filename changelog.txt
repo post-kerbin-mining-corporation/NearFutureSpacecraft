@@ -1,3 +1,16 @@
+v0.5.0
+------
+- KSP 1.1.2
+- Fixed LT-POD landing leg functionality
+- Fixed missing node in LV-T95 cfg (fixes intermittent model load problem)
+- Fixed too-high thrust on RX-30 RCS block
+- Removed second redundant attach node from PPD-1 command pod
+- Reduced mass of PPD-25 to 1.25t
+- Increased EC storage of Mk 3-9 command pod
+- Added blocking meshes to IVAs (initial pass, don't hurt me)
+- Added missing bulkhead profiles to some parts
+- Added part search tags to all parts
+
 v0.4.5
 ------
 - Fixed AVC naming

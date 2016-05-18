@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.4.5
+NEAR FUTURE SPACECRAFT PACK v0.5.0
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -14,7 +14,7 @@ Required
 
 Optional
 - RasterPropMonitor
-- ModuleManager (v2.6.5)
+- ModuleManager (v2.6.24+)
 - Community Tech Tree (v2.0+)
 
 ============
