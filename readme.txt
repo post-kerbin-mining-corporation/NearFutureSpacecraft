@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.5.1
+NEAR FUTURE SPACECRAFT PACK v0.5.2
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -14,7 +14,7 @@ Required
 
 Optional
 - RasterPropMonitor
-- ModuleManager (v2.6.24+)
+- ModuleManager (v2.7.1+)
 - Community Tech Tree (v2.0+)
 
 ============
@@ -30,8 +30,8 @@ I recommend the use of the Community Tech Tree (http://forum.kerbalspaceprogram.
 KSP-MINI-AVC
 ============
 
-This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745). 
-If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. 
+This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
+If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
 
 =========
