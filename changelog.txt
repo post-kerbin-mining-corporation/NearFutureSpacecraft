@@ -1,3 +1,11 @@
+v0.5.3
+------
+- Parts with window lights are now properly tied to the global Light action group
+- Changed LT-POD landing leg to Ground category
+- Added audio cues to LT-POD landing leg
+- Fixed orientation of LT-POD landing foot
+- Improved general performance of LT-POD landing foot, still not perfect but progressing
+
 v0.5.2
 ------
 - KSP 1.2
