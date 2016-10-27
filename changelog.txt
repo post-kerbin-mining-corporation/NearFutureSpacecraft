@@ -5,6 +5,9 @@ v0.5.3
 - Added audio cues to LT-POD landing leg
 - Fixed orientation of LT-POD landing foot
 - Improved general performance of LT-POD landing foot, still not perfect but progressing
+- Mk 3-9 pod flag transform is no longer visible on the part icon
+- Fixed strange colliders on 2.5m service tank
+- Disabled surface attachment on doors of 3.75m service tank
 
 v0.5.2
 ------
