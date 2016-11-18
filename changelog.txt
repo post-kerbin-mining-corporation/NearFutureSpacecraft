@@ -1,3 +1,14 @@
+v0.5.4
+------
+- Marked for KSP 1.2.1
+- USI-LS compatibility patch update
+- Added 'nearfuture' search tag to parts that were missing it
+- Fixed some description typos
+- Tweaked cost of RCS thrusters
+- Added RX-55 RCS block (5 nozzles)
+- Added RX-45 RCS block (4 nozzles)
+- Added RX-15 RCS block (3 nozzles)
+
 v0.5.3
 ------
 - Parts with window lights are now properly tied to the global Light action group
