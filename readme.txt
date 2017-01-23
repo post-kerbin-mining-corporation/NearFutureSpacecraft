@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.5.4
+NEAR FUTURE SPACECRAFT PACK v0.5.5
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -38,8 +38,7 @@ For a more comprehensive version checking experience, please download the KSP-AV
 LICENSING
 =========
 
-The contents of this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-
-You are free to share and adapt the materials only for non-commercial purposes and when provide appropriate attribution. Any derivatives must be distributed under the same license.
+The cfgs and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
+The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
 
 Elements of the RPM screens used in this pack are courtesy of alexustas and are distributed under CC-BY-NC-SA 3.0 as per their license.

@@ -1,3 +1,8 @@
+v0.5.5
+------
+- Marked for KSP 1.2.2
+- Fixed missing NearFutureProps distribution
+
 v0.5.4
 ------
 - Marked for KSP 1.2.1
