@@ -1,7 +1,12 @@
-v0.5.5
+v0.6.0
 ------
 - Marked for KSP 1.2.2
 - Fixed missing NearFutureProps distribution
+- Added LV-85 Orbital Maneuvering Engine: 0.625m monopropellant engine that replaces LV-T95 engine
+- Added LV-601 Orbital Maneuvering Engine: 1.25m monopropellant engine
+- Added LV-85-6 Orbital Maneuvering Engine Cluster: 2.5m monopropellant engine that replaces LV-T95x8 engine
+- Added LV-601-4 Orbital Maneuvering Engine Cluster: 3.75m monopropellant engine that replaces LV-T18 engine
+- Soft-deprecated LV-T95, LV-T95x8, LVT18 engines (will not break ships, no longer visible in VAB/SPH)
 
 v0.5.4
 ------
