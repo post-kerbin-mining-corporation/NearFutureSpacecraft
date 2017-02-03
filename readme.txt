@@ -11,10 +11,10 @@ DEPENDENCIES
 
 Required
 - NearFutureProps
+- B9   Part Switch (1.7.0)
 
 Optional
-- RasterPropMonitor
-- ModuleManager (v2.7.1+)
+- ModuleManager (v2.7.5+)
 - Community Tech Tree (v2.0+)
 
 ============
@@ -40,5 +40,7 @@ LICENSING
 
 The cfgs and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
 The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
+
+B9PartSwitch by blowfish is also distributed under its own license.
 
 Elements of the RPM screens used in this pack are courtesy of alexustas and are distributed under CC-BY-NC-SA 3.0 as per their license.
