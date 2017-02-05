@@ -3,6 +3,7 @@ v0.6.1
 - Fixed incorrect part names on some engines
 - Fixed swapped FL-R-B3000 and FL-R-B750 costs
 - Fixed accidentally included skirt node of mk4 pod
+- Updated deprecated part loading
 - Added an optional Extras patch to make the orbital engines use LFO!
 
 v0.6.0
