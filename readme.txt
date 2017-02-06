@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.6.1
+NEAR FUTURE SPACECRAFT PACK v0.6.2
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -11,7 +11,7 @@ DEPENDENCIES
 
 Required
 - NearFutureProps
-- B9   Part Switch (1.7.0)
+- B9 Part Switch (1.7.1)
 
 Optional
 - ModuleManager (v2.7.5+)

@@ -1,5 +1,6 @@
 v0.6.2
 ------
+- Updated B9PartSwitch to 1.7.1
 - Tweaked orbital engine FX
 - Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
 
