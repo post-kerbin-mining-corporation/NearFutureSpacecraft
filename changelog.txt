@@ -5,6 +5,7 @@ v0.6.2
 - Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
 - Fixed overly large engine temperature tolerances
 - Fixed botched normal map names for a few parts
+- Extras/LFO patch now converts orbital engine integrated tanks to LF/O as well
 
 v0.6.1
 ------
