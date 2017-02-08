@@ -4,6 +4,7 @@ v0.6.2
 - Tweaked orbital engine FX
 - Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
 - Fixed overly large engine temperature tolerances
+- Fixed botched normal map names for a few parts
 
 v0.6.1
 ------
