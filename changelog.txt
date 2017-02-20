@@ -1,3 +1,7 @@
+v0.6.3
+------
+- Fixed resource flow modes for new monopropellant engines so that they mimic LFO fuel modes
+
 v0.6.2
 ------
 - Updated B9PartSwitch to 1.7.1
