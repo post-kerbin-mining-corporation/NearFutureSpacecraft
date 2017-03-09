@@ -1,3 +1,43 @@
+v0.6.3
+------
+- Fixed NFProps not being included… again
+- Fixed resource flow modes for new monopropellant engines so that they mimic LFO fuel modes
+- Fixed orientation of Mk4-1 IVA windows
+
+v0.6.2
+------
+- Updated B9PartSwitch to 1.7.1
+- Tweaked orbital engine FX
+- Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
+- Fixed overly large engine temperature tolerances
+- Fixed botched normal map names for a few parts
+- Extras/LFO patch now converts orbital engine integrated tanks to LF/O as well
+
+v0.6.1
+------
+- Fixed incorrect part names on some engines
+- Fixed swapped FL-R-B3000 and FL-R-B750 costs
+- Fixed accidentally included skirt node of mk4 pod
+- Updated deprecated part loading
+- Added an optional Extras patch to make the orbital engines use LFO!
+
+v0.6.0
+------
+- Marked for KSP 1.2.2
+- Fixed missing NearFutureProps distribution
+- Added Mk4-1 Command Pod, 7-kerbal large command pod
+- Added LV-85 Orbital Maneuvering Engine: 0.625m monopropellant engine that replaces LV-T95 engine
+- Added LV-601 Orbital Maneuvering Engine: 1.25m monopropellant engine
+- Added LV-85-6 Orbital Maneuvering Engine Cluster: 2.5m monopropellant engine that replaces LV-T95x8 engine
+- Added LV-601-4 Orbital Maneuvering Engine Cluster: 3.75m monopropellant engine that replaces LV-T18 engine
+- Added FL-R-A750, FL-R-A375, FL-R-A185 1.25m Monopropellant tanks
+- Added FL-R-B750, FL-R-B1500, FL-R-B3000 2.5m Monopropellant tanks
+- Added FL-R-C1500, FL-R-C3000, FL-R-C6000 3.75m Monopropellant tanks
+- Added SD-01 and SD-02 radial engine pods
+- Improved cargo bay shielding boxes for 3.75m service tank
+- Soft-deprecated LV-T95, LV-T95x8, LVT18 engines (will not break ships, no longer visible in VAB/SPH)
+
+
 v0.5.4
 ------
 - Marked for KSP 1.2.1

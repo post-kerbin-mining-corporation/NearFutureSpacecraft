@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.5.4
+NEAR FUTURE SPACECRAFT PACK v0.6.3
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -11,10 +11,10 @@ DEPENDENCIES
 
 Required
 - NearFutureProps
+- B9 Part Switch (1.7.1)
 
 Optional
-- RasterPropMonitor
-- ModuleManager (v2.7.1+)
+- ModuleManager (v2.7.5+)
 - Community Tech Tree (v2.0+)
 
 ============
@@ -38,8 +38,9 @@ For a more comprehensive version checking experience, please download the KSP-AV
 LICENSING
 =========
 
-The contents of this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+The cfgs and code in this pack are distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). You are free to share and adapt the materials only for non-commercial purposes and when providing appropriate attribution. Any derivatives must be distributed under the same license.
+The art assets in this pack (all models and textures) are distributed under an All Rights Reserved License. You may not redistribute or re-use these assets without express permission from me.
 
-You are free to share and adapt the materials only for non-commercial purposes and when provide appropriate attribution. Any derivatives must be distributed under the same license.
+B9PartSwitch by blowfish is also distributed under its own license.
 
 Elements of the RPM screens used in this pack are courtesy of alexustas and are distributed under CC-BY-NC-SA 3.0 as per their license.
