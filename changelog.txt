@@ -2,6 +2,7 @@ v0.6.3
 ------
 - Fixed NFProps not being included… again
 - Fixed resource flow modes for new monopropellant engines so that they mimic LFO fuel modes
+- Fixed orientation of Mk4-1 IVA windows
 
 v0.6.2
 ------
