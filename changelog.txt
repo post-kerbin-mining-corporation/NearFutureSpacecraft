@@ -1,3 +1,8 @@
+v0.6.4
+------
+- Fixed USI-LS patch for Mk4-1 pod
+- All RCS parts have been set to physicsless
+
 v0.6.3
 ------
 - Fixed NFProps not being included… again
