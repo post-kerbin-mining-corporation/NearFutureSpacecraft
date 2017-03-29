@@ -3,7 +3,8 @@
 - OLD ORBITAL ENGINES FULLY DEPRECATED
 - New texture for Mk4-1 pod
 - Mk4-1 pod now has toggleable shroud "skirts" that change attachment options and slightly increase thermal tolerances
-- Checked the transforms on all RCS parts
+- Checked the exhaust transforms on all RCS parts
+- Reduced vacuum Isp of all monopropellant engines by 10-20s
 - All RCS parts have been set to physicsless
 - Fixed USI-LS patch for Mk4-1 pod
 
