@@ -1,7 +1,11 @@
-v0.6.4
+﻿v0.7.0
 ------
-- Fixed USI-LS patch for Mk4-1 pod
+- OLD ORBITAL ENGINES FULLY DEPRECATED
+- New texture for Mk4-1 pod
+- Mk4-1 pod now has toggleable shroud "skirts" that change attachment options and slightly increase thermal tolerances
+- Checked the transforms on all RCS parts
 - All RCS parts have been set to physicsless
+- Fixed USI-LS patch for Mk4-1 pod
 
 v0.6.3
 ------
