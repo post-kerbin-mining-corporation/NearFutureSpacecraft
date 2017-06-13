@@ -14,6 +14,17 @@
 - Reduced vacuum Isp of all monopropellant engines by 10-20s
 - All RCS parts have been set to physicsless
 - Fixed USI-LS patch for Mk4-1 pod
+- Improved Mk 3-9 IVA
+-- Fixed some holes
+-- Better lighting
+-- Better diffuse map, new normal maps
+-- Realigned and improved props
+- IVA RPM integration disabled for now
+- NF Props updated
+-- Now versioned (0.1.0 is current)
+-- Removed many less useful props
+-- Fixed transform centering of remaining props
+-- RPM functions of RPM-enabled props are now applied using MM, avoiding error messages when RPM is not installed
 
 v0.6.3
 ------
