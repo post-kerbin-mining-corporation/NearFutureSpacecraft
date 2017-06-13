@@ -12,6 +12,7 @@
 - Mk4-1 pod now has toggleable shroud "skirts" that change attachment options and slightly increase thermal tolerances
 - Checked the exhaust transforms on all RCS parts
 - Reduced vacuum Isp of all monopropellant engines by 10-20s
+- Increased heat production of engines to be consistent with other engines
 - All RCS parts have been set to physicsless
 - Fixed USI-LS patch for Mk4-1 pod
 - Improved Mk 3-9 IVA
