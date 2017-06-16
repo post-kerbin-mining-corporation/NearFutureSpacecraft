@@ -15,11 +15,15 @@
 - Increased heat production of engines to be consistent with other engines
 - All RCS parts have been set to physicsless
 - Fixed USI-LS patch for Mk4-1 pod
-- Improved Mk 3-9 IVA
+- Improved Mk 3-9, PPD-24 and PPD-1 IVAs
 -- Fixed some holes
 -- Better lighting
 -- Better diffuse map, new normal maps
 -- Realigned and improved props
+- Improve Mk 4-1 IVA
+-- Fixed some holes
+-- better lighting
+-- Realigned props
 - IVA RPM integration disabled for now
 - NF Props updated
 -- Now versioned (0.1.0 is current)
