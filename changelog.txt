@@ -1,3 +1,104 @@
+﻿v0.7.0
+------
+- OLD ORBITAL ENGINES FULLY DEPRECATED
+- KSP 1.3
+- Updated bundled MM to 2.8.0
+- Updated bundled B9PartSwitch to 1.8.0
+- Updated MiniAVC to 1.0.3.3
+- Full localization support for all parts
+- New textures for Mk4-1, Mk3-9 and PPD-1 pods
+- New model and texture for PPD-24 Itinerant
+- Improved textures for all monopropellant tanks and service tanks
+- Mk4-1 pod now has toggleable shroud "skirts" that change attachment options and slightly increase thermal tolerances
+- Checked the exhaust transforms on all RCS parts
+- Reduced vacuum Isp of all monopropellant engines by 10-20s
+- Increased heat production of engines to be consistent with other engines
+- All RCS parts have been set to physicsless
+- Fixed USI-LS patch for Mk4-1 pod
+- Improved Mk 3-9, PPD-24 and PPD-1 IVAs
+-- Fixed some holes
+-- Better lighting
+-- Better diffuse map, new normal maps
+-- Realigned and improved props
+- Improve Mk 4-1 IVA
+-- Fixed some holes
+-- better lighting
+-- Realigned props
+- IVA RPM integration disabled for now
+- NF Props updated
+-- Now versioned (0.1.0 is current)
+-- Removed many less useful props
+-- Fixed transform centering of remaining props
+-- RPM functions of RPM-enabled props are now applied using MM, avoiding error messages when RPM is not installed
+
+v0.6.3
+------
+- Fixed NFProps not being included… again
+- Fixed resource flow modes for new monopropellant engines so that they mimic LFO fuel modes
+- Fixed orientation of Mk4-1 IVA windows
+
+v0.6.2
+------
+- Updated B9PartSwitch to 1.7.1
+- Tweaked orbital engine FX
+- Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
+- Fixed overly large engine temperature tolerances
+- Fixed botched normal map names for a few parts
+- Extras/LFO patch now converts orbital engine integrated tanks to LF/O as well
+
+v0.6.1
+------
+- Fixed incorrect part names on some engines
+- Fixed swapped FL-R-B3000 and FL-R-B750 costs
+- Fixed accidentally included skirt node of mk4 pod
+- Updated deprecated part loading
+- Added an optional Extras patch to make the orbital engines use LFO!
+
+v0.6.0
+------
+- Marked for KSP 1.2.2
+- Fixed missing NearFutureProps distribution
+- Added Mk4-1 Command Pod, 7-kerbal large command pod
+- Added LV-85 Orbital Maneuvering Engine: 0.625m monopropellant engine that replaces LV-T95 engine
+- Added LV-601 Orbital Maneuvering Engine: 1.25m monopropellant engine
+- Added LV-85-6 Orbital Maneuvering Engine Cluster: 2.5m monopropellant engine that replaces LV-T95x8 engine
+- Added LV-601-4 Orbital Maneuvering Engine Cluster: 3.75m monopropellant engine that replaces LV-T18 engine
+- Added FL-R-A750, FL-R-A375, FL-R-A185 1.25m Monopropellant tanks
+- Added FL-R-B750, FL-R-B1500, FL-R-B3000 2.5m Monopropellant tanks
+- Added FL-R-C1500, FL-R-C3000, FL-R-C6000 3.75m Monopropellant tanks
+- Added SD-01 and SD-02 radial engine pods
+- Improved cargo bay shielding boxes for 3.75m service tank
+- Soft-deprecated LV-T95, LV-T95x8, LVT18 engines (will not break ships, no longer visible in VAB/SPH)
+
+
+v0.5.4
+------
+- Marked for KSP 1.2.1
+- USI-LS compatibility patch update
+- Added 'nearfuture' search tag to parts that were missing it
+- Fixed some description typos
+- Tweaked cost of RCS thrusters
+- Added RX-55 RCS block (5 nozzles)
+- Added RX-45 RCS block (4 nozzles)
+- Added RX-15 RCS block (3 nozzles)
+
+v0.5.3
+------
+- Parts with window lights are now properly tied to the global Light action group
+- Changed LT-POD landing leg to Ground category
+- Added audio cues to LT-POD landing leg
+- Fixed orientation of LT-POD landing foot
+- Improved general performance of LT-POD landing foot, still not perfect but progressing
+- Mk 3-9 pod flag transform is no longer visible on the part icon
+- Fixed strange colliders on 2.5m service tank
+- Disabled surface attachment on doors of 3.75m service tank
+
+v0.5.2
+------
+- KSP 1.2
+- Changed service tanks to Payload category
+- Converted RCS blocks to ModuleRCSFX, adds 1.2 sounds and FX
+
 v0.5.1
 ------
 - KSP 1.1.3
@@ -45,8 +146,8 @@ v0.4.1
 - CTT 2.0 update
 - Fixed scaling method error on RV-105 RCS Thruster Block (for real this time)
 - Slightly reduced diameter of Mk3-9 command node bottom
-- Increased the size of the shroud area on the LV-T95x8, should make it easier to attach things to the other node 
-- Fixed RPM patch for Mk3-9 
+- Increased the size of the shroud area on the LV-T95x8, should make it easier to attach things to the other node
+- Fixed RPM patch for Mk3-9
 
 v0.4.0
 ------
