@@ -1,3 +1,10 @@
+﻿v0.7.3
+------
+- Updated B9PartSwitch to 1.9.0
+- Updated MM to 2.8.1
+- Reexported normal maps 
+- Reduced lookup radius of 3.75m service tank's occlusion checker (was 2x too high)
+
 v0.7.2
 ------
 - Updated B9PartSwitch to 1.8.1
