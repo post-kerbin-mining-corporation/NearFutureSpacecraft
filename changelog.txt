@@ -1,14 +1,20 @@
-﻿v0.7.3
+﻿﻿v0.7.4
 ------
-- Updated B9PartSwitch to 1.9.0
 - Updated MM to 2.8.1
 - Reexported normal maps 
 - Reduced lookup radius of 3.75m service tank's occlusion checker (was 2x too high)
+
+v0.7.3
+------
+- Updated B9PartSwitch to 1.9.0
+- Added Russian translation courtesy of Dr. Jet
 
 v0.7.2
 ------
 - Updated B9PartSwitch to 1.8.1
 - Reenabled drag cube switches on Mk4-1 pod due to B9PartSwitch update
+- Fixed renamed parts not being handled by CTT/USI/CLS
+- Spanish Translation courtesy of forum user fitiales
 
 v0.7.1
 ------
