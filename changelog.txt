@@ -1,6 +1,7 @@
 v0.7.5
 ------
-- Added RPM support back to the mod, courtesy of Dragon01
+- Added RPM support back to the mod,
+-- Courtesy of Dragon01
 -- Requires the installation of ASET Props and Raster Prop Monitor
 - Some general tweaks, fixes and changes to the IVAs
 
