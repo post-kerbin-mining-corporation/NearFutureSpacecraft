@@ -3,6 +3,8 @@ v0.7.5
 - Updated B9PartSwitch to 2.0.0
 - Updated NFProps to 0.2.1
 - Added Simplified Chinese translation
+- Updates to Russian translation
+- Some IVA fixes
 - Added RPM support back to the mod
 -- Courtesy of Dragon01
 -- Requires the installation of ASET Props and Raster Prop Monitor
