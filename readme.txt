@@ -10,8 +10,8 @@ DEPENDENCIES
 ============
 
 Required
-- NearFutureProps (0.2.0)
-- B9 Part Switch (1.10.0)
+- NearFutureProps (0.2.1)
+- B9 Part Switch (2.0.0)
 
 Optional
 - ModuleManager (v2.8.0+)
@@ -41,6 +41,7 @@ LOCALIZATION
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - Russian (KSP forum user Dr. Jet)
+- Simplified Chinese (Sonkin)
 
 =========
 LICENSING
