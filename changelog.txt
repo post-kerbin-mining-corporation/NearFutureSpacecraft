@@ -1,6 +1,6 @@
 v0.7.5
 ------
-- Updated B9PartSwitch to 2.0.0
+- Updated B9PartSwitch to 2.1.0
 - Updated NFProps to 0.2.1
 - Added Simplified Chinese translation
 - Updates to Russian translation
