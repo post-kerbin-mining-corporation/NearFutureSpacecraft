@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.7.4
+NEAR FUTURE SPACECRAFT PACK v0.7.5
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -10,12 +10,13 @@ DEPENDENCIES
 ============
 
 Required
-- NearFutureProps (0.2.0)
-- B9 Part Switch (1.10.0)
+- NearFutureProps (0.2.1)
+- B9 Part Switch (2.1.0)
 
 Optional
 - ModuleManager (v2.8.0+)
 - Community Tech Tree (v2.0+)
+- Raster Prop Monitor(v0.29.2) plus ASET Props (1.4)
 
 ============
 INSTALLATION
@@ -40,6 +41,7 @@ LOCALIZATION
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - Russian (KSP forum user Dr. Jet)
+- Simplified Chinese (Sonkin)
 
 =========
 LICENSING
