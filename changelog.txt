@@ -1,3 +1,11 @@
+
+v0.7.6
+------
+- Updated ModuleManager to 3.0.4
+- Updated NFProps to 0.3.0
+- Added KerbalHealth patch (Fraz86)
+- Added fix for TAC-LS (Streetwind)
+
 v0.7.5
 ------
 - Updated B9PartSwitch to 2.1.0
