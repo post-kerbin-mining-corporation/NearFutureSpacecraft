@@ -1,3 +1,4 @@
+
 v0.7.6
 ------
 - Updated ModuleManager to 3.0.4
