@@ -14,7 +14,7 @@ Required
 - B9 Part Switch (2.1.1)
 
 Optional
-- ModuleManager (v2.8.0+)
+- ModuleManager (v3.0.4+)
 - Community Tech Tree (v2.0+)
 - Raster Prop Monitor(v0.29.2) plus ASET Props (1.4)
 
