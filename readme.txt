@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v0.7.6
+NEAR FUTURE SPACECRAFT PACK v0.7.7
 ==================================
 
 This pack contains spacecraft parts. It includes two command pods, a utility/crew container, three orbital engines, a landing leg pod, several RCS blocks and two service fuel tanks.
@@ -14,7 +14,7 @@ Required
 - B9 Part Switch (2.1.1)
 
 Optional
-- ModuleManager (v2.8.0+)
+- ModuleManager (v3.0.4+)
 - Community Tech Tree (v2.0+)
 - Raster Prop Monitor(v0.29.2) plus ASET Props (1.4)
 
