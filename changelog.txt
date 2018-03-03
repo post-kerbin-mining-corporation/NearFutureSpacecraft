@@ -1,3 +1,6 @@
+v0.7.7
+------
+- Fixed a problem with the TAC-LS patch
 
 v0.7.6
 ------
