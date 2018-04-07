@@ -1,9 +1,9 @@
 ﻿v0.7.8
 ------
 - KSP 1.4.2
-- Updated ModuleManager to 
-- Updated B9Partswitch to
+- Updated B9Partswitch to 2.2.1
 - Updated NF Props to 0.3.2
+- Fixed KerbalHealth patch
 
 v0.7.7
 ------
