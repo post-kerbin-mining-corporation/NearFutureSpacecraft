@@ -1,3 +1,11 @@
+v0.7.9
+------
+- KSP 1.4.3
+- Updated B9Partswitch to 2.3.0
+- Updated NF Props to 0.3.3
+- Switched versioning to mix/max specification
+- Disabled drag cube recalculation for B9PS-using engines to work around stock issue
+
 ﻿v0.7.8
 ------
 - KSP 1.4.2
