@@ -12,8 +12,7 @@ v1.0.0
 - Added Mk3 'Tethys' Advanced Command Pod: specialized 2.5m command pod for landing 3 kerbals (Dragon 2 style)
 - Added Mk4-B 'Elara' Biconic Command Module: high tech 3.75m command pod for landing
 - Added 64-8S 'Chickadee' Landing Engine: high thrust tiny radial monoprop engine
-- Added 72-6S 'Mockingbird' Landing Engine: high thrust small radial monoprop engine
-- Added 96-8S 'Hummingbird' Landing Engine: high thrust larger radial monoprop engine
+- Added 96-8S 'Mockingbird' Landing Engine: high thrust larger radial monoprop engine
 - Added new modality to Mk4-1 pod: option to enable landing pod nodes in lower skirt
 - Added nicknames to all command pods
 - Added RCS to Mk3-9, PPD-1 and Mk4-1 pods
