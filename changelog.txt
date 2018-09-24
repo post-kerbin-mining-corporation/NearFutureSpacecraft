@@ -1,7 +1,7 @@
 v1.0.0
 -------
 - KSP 1.4.5
-- Updated B9Partswitch to 2.3.3
+- Updated B9PartSwitch to 2.3.3
 - Updated ModuleManager to 3.0.7
 - Added 0.625m docking nosecone
 - Added 0.625m blunt shaped nosecone
@@ -11,13 +11,15 @@ v1.0.0
 - Added Mk3B 'Pandora' Advanced Command Pod: advanced 4 seater 2.5m command pod
 - Added Mk3 'Tethys' Advanced Command Pod: specialized 2.5m command pod for landing 3 kerbals (Dragon 2 style)
 - Added Mk4-B 'Elara' Biconic Command Module: high tech 3.75m command pod for landing
-- Added 64-8S 'Chickadee' Landing Engine: high thrust tiny radial monoprop engine
+- Added 64-8S 'Chickadee' Landing Engine: high thrust small radial monoprop engine
 - Added 96-8S 'Mockingbird' Landing Engine: high thrust larger radial monoprop engine
-- Added new modality to Mk4-1 pod: option to enable landing pod nodes in lower skirt
-- Added nicknames to all command pods
+- Added new modality to Mk4-1 pod: option to enable landing pod nodes in lower skirt with extra integrated fuel
+- Added heat shield module to Mk4-1 pod: Ablator is added when using the either of the lower skirt modes that terminate at 3.75m
+- Added nicknames to all old command pods
 - Added RCS to Mk3-9, PPD-1 and Mk4-1 pods
-- Tweaked external textures of Mk3-9, PPD-1 and Mk4-1 to match new standard (add RCS ports, consistent colours, etc)
+- Redid external textures of Mk3-9, PPD-1 and Mk4-1 to match new standard (add RCS ports, consistent colours, etc)
 - Retextured Itinerant pod to match SSPXr standards
+- Retextured all MonoPropellant tanks
 - Reduced mass of Mk3-9 pod to 1.85 from 2.1
 
 v0.7.9
