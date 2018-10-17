@@ -1,8 +1,9 @@
 v1.0.0
 -------
-- KSP 1.4.5
-- Updated B9PartSwitch to 2.3.3
-- Updated ModuleManager to 3.0.7
+- KSP 1.5.0
+- Updated B9PartSwitch to 2.4.3
+- Updated ModuleManager to 3.1.0
+- Updated NF Props to 0.3.5
 - Added 0.625m docking nosecone
 - Added 0.625m blunt shaped nosecone
 - Added Mk1-X 'Phoebe' Orbital Command Pod: orbitally focused 1.25m command pod
