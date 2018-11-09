@@ -24,6 +24,7 @@ v1.0.0
 - Redid external textures of Mk3-9, PPD-1 and Mk4-1 to match new standards (consistent colours, etc)
 - Retextured Itinerant pod to match standards and fixed its orientation
 - New RCS FX for improved RCS parts
+- Rearranged CTT nodes somewhat
 
 v0.7.9
 ------
