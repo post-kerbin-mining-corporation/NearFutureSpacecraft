@@ -1,8 +1,8 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v1.0.0
+NEAR FUTURE SPACECRAFT PACK v1.0.1
 ==================================
 
-This pack contains spacecraft parts focused on crewed vehicles. At the moment this includes nine new command pods, one new utility module, several monopropellant engines in orbital and landing variants, more monopropellant tanks, additional RCS thrusters. 
+This pack contains spacecraft parts focused on crewed vehicles. At the moment this includes nine new command pods, one new utility module, several monopropellant engines in orbital and landing variants, more monopropellant tanks, additional RCS thrusters.
 
 
 ============
