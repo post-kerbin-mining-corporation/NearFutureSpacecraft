@@ -1,8 +1,30 @@
-v0.7.10
+v1.0.0
 -------
-- KSP 1.4.5
-- Updated B9Partswitch to 2.3.3
-- Updated ModuleManager to 3.0.7
+- KSP 1.5.1
+- Updated B9PartSwitch to 2.4.5
+- Updated ModuleManager to 3.1.0
+- Updated NF Props to 0.3.5
+- Removed MiniAVC distribution
+- Added 0.625m docking nosecone
+- Added 0.625m blunt shaped nosecone
+- Added Mk1-X 'Phoebe' Orbital Command Pod: orbitally focused 1 seater 1.25m command pod
+- Added Mk1-TMA 'Proteus' Advanced Command Pod: advanced 2 seater 1.25m command pod
+- Added Mk1-L 'Nereid' Command Pod: specialized 1.25m command pod for landing 2 kerbals (Dragon 2 style)
+- Added Mk3B 'Pandora' Advanced Command Pod: advanced 4 seater 2.5m command pod
+- Added Mk3 'Tethys' Advanced Command Pod: specialized 2.5m command pod for landing 3 kerbals (Dragon 2 style)
+- Added Mk4-B 'Elara' Biconic Command Module: high tech multipurpose 3.75m command pod
+- Added 64-8S 'Chickadee' Landing Engine: high thrust small radial monoprop engine for Nereid, Tethys
+- Added 96-8S 'Mockingbird' Landing Engine: higher thrust larger radial monoprop engine for Almathea
+- Added new variant to Mk4-1 pod: shroud option to enable landing pod nodes in lower skirt with extra integrated fuel
+- Added heat shield module to Mk4-1 pod: Ablator is added when using the either of the lower skirt modes that terminate at 3.75m
+- Rebalanced Mk4-1 pod to fit the "landing pod" paradigm for 3.75m
+- Added nicknames to all old command pods (Mk4-1 Almathea, PPD-1 Callisto, Mk 3-9 Rhea)
+- Added integrated RCS to Mk3-9, PPD-1 and Mk4-1 pods
+- Reduced mass of Mk3-9 pod to 1.85 from 2.1
+- Redid external textures of Mk3-9, PPD-1 and Mk4-1 to match new standards (consistent colours, etc)
+- Retextured Itinerant pod to match standards and fixed its orientation
+- New RCS FX for improved RCS parts
+- Rearranged CTT nodes somewhat
 
 v0.7.9
 ------
