@@ -1,3 +1,17 @@
+v1.0.1
+-------
+- Decreased Elara body lift from 0.5 to 0.2
+- Added action group spec to Elara hatch, added deploy limit
+- Added toggleable docking spotlight to Pandora chin area
+- Added a collider to the Docking monitor in the Pandora interior, if you click on it, it will change to a external view.
+- Added consistent alternate RCS layout names to relevant pods for modder use
+- Fixed a stray RCS thruster on the Callisto
+- Moved Callisto flag so it doesn't obscure the surface camera.
+- Tweaked UV of Nereid flag
+- Fixed typo in Hummingbird engine description
+- Moved Nereid pod colliders up a bit, fixes accessibility of engines
+- Fixed localization of Nereid alternate engines pod versions
+
 v1.0.0
 -------
 - KSP 1.5.1
