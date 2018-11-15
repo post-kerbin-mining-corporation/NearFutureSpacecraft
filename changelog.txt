@@ -7,6 +7,10 @@ v1.0.1
 - Added consistent alternate RCS layout names to relevant pods for modder use
 - Fixed a stray RCS thruster on the Callisto
 - Moved Callisto flag so it doesn't obscure the surface camera.
+- Tweaked UV of Nereid flag
+- Fixed typo in Hummingbird engine description
+- Moved Nereid pod colliders up a bit, fixes accessibility of engines
+- Fixed localization of Nereid alternate engines pod versions
 
 v1.0.0
 -------
