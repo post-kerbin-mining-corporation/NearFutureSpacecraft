@@ -37,6 +37,12 @@ To install, place the GameData folder inside your Kerbal Space Program folder. I
 
 NOTE: Do NOT rename or move folders within the GameData folder - this mod uses absolute paths to assets and will break if this happens.
 
+## Optional Patches
+
+Some extra patches are bundled that you can use to tweak your installation. To install them, drop the correct folder from the **Extras** folder into your KSP GameData Folder
+
+* **OrbitalLFOEngines**: Converts the orbital monoprop engines to use LF/O 
+
 ## External Mod Compatibility
 
 This mod includes compatibility patches for the following mods:
