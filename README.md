@@ -1,6 +1,6 @@
 # Near Future Spacecraft
 
-A mod pack for Kerbal Space Program, delivering a high quality expansion to orbital and surface base construction.
+A mod pack for Kerbal Space Program, delivering an expansion to the spacecraft construction offerings in the game
 
 * [Features](#features)
 * [Dependencies](#dependencies)
@@ -11,16 +11,16 @@ A mod pack for Kerbal Space Program, delivering a high quality expansion to orbi
 
 ## Features
 
-A complete and total rebuild of my old Stockalike Station Parts Expansion project. Everything has been redone, and nothing is left of the old mod!
+A number of parts designed to help build better and cooler orbital (and not so orbital) spacecraft, including:
 
-* **Orbital Command Pods:**  
-* **Advanced Command Pods:**
-* **Landable Command Pods:**
-* **Monopropellant Tanks:**
-* **Service Fuel Tanks:**
-* **Advanced RCS Thrusters:**
-* **Orbital Monopropellant Engines:**
-* **Landing Monopropellant Engines:**
+* **Orbital Command Pods:**  New command pods, focused on orbital operations with better comms and control
+* **Advanced Command Pods:** Command pods that are similar to stock's offerings, but uprated
+* **Lander Command Pods:** Command pods with integral slots for landing engines
+* **Monopropellant Tanks:** A full set of monopropellant tanks in 1.25m, 2.5m and 3.75m sizes
+* **Service Fuel Tanks:** A few service bay/fuel tank combinations
+* **Advanced RCS Thrusters:** High efficiency orbital RCS thrusters
+* **Orbital Monopropellant Engines:** Specialized, efficient engines for orbital use fuelled by monopropellant
+* **Landing Monopropellant Engines:** Specialized and high thrust engines for lander and abort system use
 * **IVAs:** All the pods have fully featured IVAs, and some have more complex RPM IVAs
 
 ## Dependencies
