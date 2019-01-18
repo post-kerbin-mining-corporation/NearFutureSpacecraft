@@ -27,3 +27,6 @@ There are some characters that should not be translated into another language an
 ## Translation Credits
 
 * fitiales (Spanish)
+* German (LeLeon and Three_Pounds)
+* Russian (Dr. Jet)
+* Simplified Chinese (Sonkin)

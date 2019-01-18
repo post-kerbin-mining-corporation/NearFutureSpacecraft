@@ -1,3 +1,7 @@
+v1.0.3
+------
+- Added German translation from LeLeon and Three_Pounds
+
 v1.0.2
 -------
 - KSP 1.6.x
