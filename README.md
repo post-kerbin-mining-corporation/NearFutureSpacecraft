@@ -41,7 +41,7 @@ NOTE: Do NOT rename or move folders within the GameData folder - this mod uses a
 
 Some extra patches are bundled that you can use to tweak your installation. To install them, drop the correct folder from the **Extras** folder into your KSP GameData Folder
 
-* **OrbitalLFOEngines**: Converts the orbital monoprop engines to use LF/O 
+* **OrbitalLFOEngines**: Converts the orbital monoprop engines to use LF/O
 
 ## External Mod Compatibility
 
@@ -58,6 +58,16 @@ Note that the vast majority of this compatibility is community-sourced and not m
 ## Contributing
 
 I certainly accept pull requests. Please target all such things to the `dev` branch though!
+
+
+## Translations
+
+For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/NearFutureSpacecraft/blob/master/GameData/NearFutureSpacecraft/Localization/Localization.md)
+
+* **Spanish**: fitiales
+* **Russian**: Dr. Jet.
+* **German**: Three_Pounds and LeLeon
+* **Simplified Chinese**: Sonkin
 
 ## Licensing
 
