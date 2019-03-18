@@ -1,9 +1,11 @@
-v1.1.0
+﻿v1.1.0
 ------
 - Updated MM to 4.0.2
 - Soft-deprecated stack monopropellant tanks due to artistic irrelevance
 - Renamed PPD-24 to RPD-12 (name collision with SSPXr)
--
+- Propagated command pod-related improvements from Restock to command pods (hatches, endcaps, colours)
+- Retextured orbital engines completely
+- Redid orbital engine particle effects
 
 v1.0.3
 ------
