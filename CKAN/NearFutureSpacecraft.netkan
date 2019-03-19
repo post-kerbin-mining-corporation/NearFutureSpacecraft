@@ -1,0 +1,34 @@
+{
+    "spec_version": "v1.4",
+    "identifier" : "NearFutureSpacecraft",
+    "$kref": "#/ckan/spacedock/708",
+    "$vref": "#/ckan/ksp-avc",
+    "name": "Near Future Spacecraft",
+    "abstract": "New command pods, control systems and engines for crewed spacecraft",
+    "author": "Nertea",
+    "license": "restricted",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+      "repository": "https://github.com/ChrisAdderley/NearFutureSpacecraft"
+    },
+    "depends":  [
+        { "name" : "NearFutureProps" },
+        { "name" : "B9PartSwitch" },
+        { "name" : "ModuleManager" }
+    ],
+    "suggests" : [
+        { "name" : "CommunityTechTree" },
+        { "name" : "NearFutureConstruction" },
+        { "name" : "NearFutureElectrical" },
+        { "name" : "NearFuturePropulsion" },
+        { "name" : "NearFutureSolar" },
+        { "name" : "StationPartsExpansionRedux" }
+    ],
+    "supports" : [
+        { "name" : "RasterPropMonitor-Core" },
+        { "name" : "ConnectedLivingSpace" }
+    ],
+    "install" : [
+        { "find" : "NearFutureSpacecraft", "install_to" : "GameData" }
+    ]
+}

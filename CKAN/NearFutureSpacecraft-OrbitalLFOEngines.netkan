@@ -1,0 +1,20 @@
+{
+    "spec_version": "v1.4",
+    "identifier" : "NearFutureSpacecraftLFOEngines",
+    "$kref": "#/ckan/spacedock/708",
+    "$vref": "#/ckan/ksp-avc/NearFutureSpacecraft.version",
+    "name": "Near Future Spacecraft - LFO Engines",
+    "abstract": "Convertes the monopropellant-based orbital engines in NF Spacecraft to use Liquid Fuel/Oxidizer",
+    "author": "Nertea",
+    "license": "MIT",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+      "repository": "https://github.com/ChrisAdderley/NearFutureSpacecraft"
+    },
+    "depends":  [
+        { "name" : "NearFutureSpacecraft" }
+    ],
+    "install" : [
+        { "find" : "OrbitalLFOEngines", "install_to" : "GameData" }
+    ]
+}
