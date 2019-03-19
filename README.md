@@ -68,6 +68,7 @@ For translation instructions please see [Localization Instructions](https://gith
 * **Russian**: Dr. Jet.
 * **German**: Three_Pounds and LeLeon
 * **Simplified Chinese**: Sonkin
+* **French**: don-vip
 
 ## Licensing
 

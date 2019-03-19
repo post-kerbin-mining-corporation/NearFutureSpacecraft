@@ -40,6 +40,7 @@ This mod includes localization support, and includes translations for
 - Russian (KSP forum user Dr. Jet)
 - Simplified Chinese (Sonkin)
 - German (Three_Pounds and LeLeon)
+- French (don-vip)
 
 =========
 LICENSING
