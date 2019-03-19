@@ -10,6 +10,8 @@
 - Redid orbital engine particle effects
 - Orbital engine colour/manufacturer are now consistent with Reaction Engines (stock Puff)
 - Minor texture tunings in many places
+- Fixed floating Occupy Duna poster in Elara IVA
+- Fixed top node of Callisto being a bit too high
 - Added support for the Landertron mod to the three landing command pods (DStaal)
 - Added support for newer versions of USI-LS (dlrk2)
 - Recompressed many textures with higher quality compressor
