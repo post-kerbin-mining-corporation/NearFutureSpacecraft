@@ -1,3 +1,7 @@
+v1.2.1
+------
+- Hotfix version number
+
 ﻿v1.1.0
 ------
 - Updated MM to 4.0.2
