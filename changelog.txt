@@ -1,3 +1,7 @@
+v1.2.2
+------
+- Hotfix broken texture file
+
 v1.2.1
 ------
 - Hotfix version number
