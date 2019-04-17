@@ -2,7 +2,7 @@ mod-name: NearFutureSpacecraft
 package:
   include-dependencies: true  # Include dependencies in the package
   included-gamedata:
-    - KerbalAtomics
+    - NearFutureSpacecraft
   included-support:  # Include these root-level files in packages
     - readme.txt
     - changelog.txt
@@ -11,10 +11,13 @@ dependencies:  # Configure dependencies
     version: 4.0.2
     location: s3
   B9PartSwitch:
-    version: 2.6.0
+    version: 2.7.0
     location: s3
+  SomeThing:
+    location: url
+    url: https://diethood.com/wp-content/uploads/2018/11/Oven-Baked-Chicken-24.jpg
   NearFutureProps:
-    tag: 0.5.0
+    tag: 0.5.1
     location: github
     repository: ChrisAdderley/NearFutureProps
 deploy:
