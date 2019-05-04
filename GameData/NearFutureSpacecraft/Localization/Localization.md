@@ -28,6 +28,6 @@ There are some characters that should not be translated into another language an
 
 * fitiales (Spanish)
 * German (LeLeon and Three_Pounds)
-* Russian (Dr. Jet)
+* Russian (Dr. Jet and Sooll3)
 * Simplified Chinese (Sonkin)
 * French (don-vip)
