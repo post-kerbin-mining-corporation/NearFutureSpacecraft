@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v1.2.3
+NEAR FUTURE SPACECRAFT PACK v1.2.4
 ==================================
 
 This pack contains spacecraft parts focused on crewed vehicles. At the moment this includes nine new command pods, one new utility module, several monopropellant engines in orbital and landing variants, more monopropellant tanks, additional RCS thrusters.
@@ -37,7 +37,7 @@ LOCALIZATION
 
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
-- Russian (KSP forum user Dr. Jet)
+- Russian (KSP forum user Dr. Jet and Sooll3)
 - Simplified Chinese (Sonkin)
 - German (Three_Pounds and LeLeon)
 - French (don-vip)

@@ -1,3 +1,9 @@
+v1.2.4
+------
+- Added patch for Universal Storage 2 adding nodes to the 3.75m service tank (thanks Zorg)
+- Removed chicken from distribution
+- Updated Russian localization (Sool3)
+
 v1.2.3
 ------
 - KSP 1.7.x

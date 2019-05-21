@@ -65,7 +65,7 @@ I certainly accept pull requests. Please target all such things to the `dev` bra
 For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/NearFutureSpacecraft/blob/master/GameData/NearFutureSpacecraft/Localization/Localization.md)
 
 * **Spanish**: fitiales
-* **Russian**: Dr. Jet.
+* **Russian**: Dr. Jet and Sooll3
 * **German**: Three_Pounds and LeLeon
 * **Simplified Chinese**: Sonkin
 * **French**: don-vip

@@ -13,9 +13,6 @@ dependencies:  # Configure dependencies
   B9PartSwitch:
     version: 2.7.0
     location: s3
-  SomeThing:
-    location: url
-    url: https://diethood.com/wp-content/uploads/2018/11/Oven-Baked-Chicken-24.jpg
   NearFutureProps:
     tag: 0.5.1
     location: github
