@@ -9,9 +9,9 @@ DEPENDENCIES
 ============
 
 Required
-- NearFutureProps (0.5.1)
-- B9 Part Switch (2.7.0)
-- ModuleManager (4.0.2)
+- NearFutureProps (0.6.1)
+- B9 Part Switch (2.12.1)
+- ModuleManager (4.1.0)
 
 Optional
 - Community Tech Tree (v2.0+)
