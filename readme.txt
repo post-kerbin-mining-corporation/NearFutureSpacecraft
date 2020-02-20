@@ -1,5 +1,5 @@
 ==================================
-NEAR FUTURE SPACECRAFT PACK v1.2.4
+NEAR FUTURE SPACECRAFT PACK v1.3.1
 ==================================
 
 This pack contains spacecraft parts focused on crewed vehicles. At the moment this includes nine new command pods, one new utility module, several monopropellant engines in orbital and landing variants, more monopropellant tanks, additional RCS thrusters.
@@ -9,9 +9,9 @@ DEPENDENCIES
 ============
 
 Required
-- NearFutureProps (0.6.1)
-- B9 Part Switch (2.12.1)
-- ModuleManager (4.1.0)
+- NearFutureProps (0.6.2)
+- B9 Part Switch (2.13.0)
+- ModuleManager (4.1.3)
 
 Optional
 - Community Tech Tree (v2.0+)
