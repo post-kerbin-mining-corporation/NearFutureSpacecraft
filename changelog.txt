@@ -1,0 +1,415 @@
+v1.3.1
+------
+- KSP 1.9.x
+- Updated NearFutureProps to 0.6.2
+- Updated B9PartSwitch to 2.13.0
+- Updated ModuleManager to 4.1.3
+- Updates to Chinese localization (tinygrox)
+
+v1.3.0
+------
+- KSP 1.8.x
+- Updated NearFutureProps to 0.6.1
+- Updated B9PartSwitch to 2.12.1
+- Updated ModuleManager to 4.1.0
+- Updated ModuleManager pass specifiers where necessary
+
+v1.2.4
+------
+- Added patch for Universal Storage 2 adding nodes to the 3.75m service tank (thanks Zorg)
+- Removed chicken from distribution
+- Updated Russian localization (Sool3)
+
+v1.2.3
+------
+- KSP 1.7.x
+- Updated NearFutureProps to 0.5.1
+- Updated B9PartSwitch to 2.7.0
+- Adjusted RCS part masses, costs and unlock costs to align with KSP 1.7 changes
+
+v1.2.2
+------
+- Hotfix broken texture file
+
+v1.2.1
+------
+- Hotfix version number
+
+﻿v1.1.0
+------
+- Updated MM to 4.0.2
+- Added French translation (don-vip)
+- Soft-deprecated stack monopropellant tanks due to artistic irrelevance. Some may return later but for now you shouldn't build new craft with them
+- Renamed PPD-24 to RPD-12 (name collision with SSPXr)
+- Propagated command pod-related improvements from Restock to command pods (hatches, endcaps, colours)
+- Retextured orbital engines completely
+- Now uses improved thermal colorization method for engine emisives
+- Redid orbital engine particle effects
+- Orbital engine colour/manufacturer are now consistent with Reaction Engines (stock Puff)
+- Minor texture tunings in many places
+- Fixed floating Occupy Duna poster in Elara IVA
+- Fixed top node of Callisto being a bit too high
+- Added support for the Landertron mod to the three landing command pods (DStaal)
+- Added support for newer versions of USI-LS (dlrk2)
+- Recompressed many textures with higher quality compressor
+
+v1.0.3
+------
+- Added German translation from LeLeon and Three_Pounds
+
+v1.0.2
+-------
+- KSP 1.6.x
+- Updated B9PartSwitch to 2.6.0
+- Updated ModuleManager to 3.1.3
+- Updated NFProps to 0.5.0
+- Fixed tiny docking nose not having a docking node
+- Changed licensing of code/configs to MIT
+
+v1.0.1
+-------
+- Decreased Elara body lift from 0.5 to 0.2
+- Added action group spec to Elara hatch, added deploy limit
+- Added toggleable docking spotlight to Pandora chin area
+- Added a collider to the Docking monitor in the Pandora interior, if you click on it, it will change to a external view.
+- Added consistent alternate RCS layout names to relevant pods for modder use
+- Fixed a stray RCS thruster on the Callisto
+- Moved Callisto flag so it doesn't obscure the surface camera.
+- Tweaked UV of Nereid flag
+- Fixed typo in Hummingbird engine description
+- Moved Nereid pod colliders up a bit, fixes accessibility of engines
+- Fixed localization of Nereid alternate engines pod versions
+
+v1.0.0
+-------
+- KSP 1.5.1
+- Updated B9PartSwitch to 2.4.5
+- Updated ModuleManager to 3.1.0
+- Updated NF Props to 0.3.5
+- Removed MiniAVC distribution
+- Added 0.625m docking nosecone
+- Added 0.625m blunt shaped nosecone
+- Added Mk1-X 'Phoebe' Orbital Command Pod: orbitally focused 1 seater 1.25m command pod
+- Added Mk1-TMA 'Proteus' Advanced Command Pod: advanced 2 seater 1.25m command pod
+- Added Mk1-L 'Nereid' Command Pod: specialized 1.25m command pod for landing 2 kerbals (Dragon 2 style)
+- Added Mk3B 'Pandora' Advanced Command Pod: advanced 4 seater 2.5m command pod
+- Added Mk3 'Tethys' Advanced Command Pod: specialized 2.5m command pod for landing 3 kerbals (Dragon 2 style)
+- Added Mk4-B 'Elara' Biconic Command Module: high tech multipurpose 3.75m command pod
+- Added 64-8S 'Chickadee' Landing Engine: high thrust small radial monoprop engine for Nereid, Tethys
+- Added 96-8S 'Mockingbird' Landing Engine: higher thrust larger radial monoprop engine for Almathea
+- Added new variant to Mk4-1 pod: shroud option to enable landing pod nodes in lower skirt with extra integrated fuel
+- Added heat shield module to Mk4-1 pod: Ablator is added when using the either of the lower skirt modes that terminate at 3.75m
+- Rebalanced Mk4-1 pod to fit the "landing pod" paradigm for 3.75m
+- Added nicknames to all old command pods (Mk4-1 Almathea, PPD-1 Callisto, Mk 3-9 Rhea)
+- Added integrated RCS to Mk3-9, PPD-1 and Mk4-1 pods
+- Reduced mass of Mk3-9 pod to 1.85 from 2.1
+- Redid external textures of Mk3-9, PPD-1 and Mk4-1 to match new standards (consistent colours, etc)
+- Retextured Itinerant pod to match standards and fixed its orientation
+- New RCS FX for improved RCS parts
+- Rearranged CTT nodes somewhat
+
+v0.7.9
+------
+- KSP 1.4.3
+- Updated B9Partswitch to 2.3.0
+- Updated NF Props to 0.3.3
+- Switched versioning to mix/max specification
+- Disabled drag cube recalculation for B9PS-using engines to work around stock issue
+
+﻿v0.7.8
+------
+- KSP 1.4.2
+- Updated B9Partswitch to 2.2.1
+- Updated NF Props to 0.3.2
+- Fixed KerbalHealth patch
+
+v0.7.7
+------
+- Fixed a problem with the TAC-LS patch
+
+v0.7.6
+------
+- Updated ModuleManager to 3.0.4
+- Updated B9PartSwitch to 2.1.1
+- Updated NFProps to 0.3.0
+- Added KerbalHealth patch (Fraz86)
+- Added fix for TAC-LS (Streetwind)
+
+v0.7.5
+------
+- Updated B9PartSwitch to 2.1.0
+- Updated NFProps to 0.2.1
+- Added Simplified Chinese translation
+- Updates to Russian translation
+- Some IVA fixes
+- Increased skin max temp of LT-POD legs to 2800K, increased emissive constant to 0.9
+- Added RPM support back to the mod
+-- Courtesy of Dragon01
+-- Requires the installation of ASET Props and Raster Prop Monitor
+- Some general tweaks, fixes and changes to the IVAs
+
+
+﻿v0.7.4
+------
+- KSP 1.3.1
+- Dependency update
+- Updated NFProps to 0.2.0
+-- Better in every way
+
+﻿v0.7.3
+------
+- Updated MM to 2.8.1
+- Reexported normal maps
+- Reduced lookup radius of 3.75m service tank's occlusion checker (was 2x too high)
+- Updated B9PartSwitch to 1.9.0
+- Added Russian translation courtesy of Dr. Jet
+
+v0.7.2
+------
+- Updated B9PartSwitch to 1.8.1
+- Reenabled drag cube switches on Mk4-1 pod due to B9PartSwitch update
+- Fixed renamed parts not being handled by CTT/USI/CLS
+- Spanish Translation courtesy of forum user fitiales
+
+v0.7.1
+------
+- Disabled drag cube switches on Mk4-1 pod, fixes map view issues bit drag might be a little weird until this is really fixed
+
+﻿v0.7.0
+------
+- OLD ORBITAL ENGINES FULLY DEPRECATED
+- KSP 1.3
+- Updated bundled MM to 2.8.0
+- Updated bundled B9PartSwitch to 1.8.0
+- Updated MiniAVC to 1.0.3.3
+- Full localization support for all parts
+- New textures for Mk4-1, Mk3-9 and PPD-1 pods
+- New model and texture for PPD-24 Itinerant
+- Improved textures for all monopropellant tanks and service tanks
+- Mk4-1 pod now has toggleable shroud "skirts" that change attachment options and slightly increase thermal tolerances
+- Checked the exhaust transforms on all RCS parts
+- Reduced vacuum Isp of all monopropellant engines by 10-20s
+- Increased heat production of engines to be consistent with other engines
+- All RCS parts have been set to physicsless
+- Fixed USI-LS patch for Mk4-1 pod
+- Improved Mk 3-9, PPD-24 and PPD-1 IVAs
+-- Fixed some holes
+-- Better lighting
+-- Better diffuse map, new normal maps
+-- Realigned and improved props
+- Improve Mk 4-1 IVA
+-- Fixed some holes
+-- better lighting
+-- Realigned props
+- IVA RPM integration disabled for now
+- NF Props updated
+-- Now versioned (0.1.0 is current)
+-- Removed many less useful props
+-- Fixed transform centering of remaining props
+-- RPM functions of RPM-enabled props are now applied using MM, avoiding error messages when RPM is not installed
+
+v0.6.3
+------
+- Fixed NFProps not being included… again
+- Fixed resource flow modes for new monopropellant engines so that they mimic LFO fuel modes
+- Fixed orientation of Mk4-1 IVA windows
+
+v0.6.2
+------
+- Updated B9PartSwitch to 1.7.1
+- Tweaked orbital engine FX
+- Fixed thrust angle deviation on LV-601-4 and LV-85-6 engines
+- Fixed overly large engine temperature tolerances
+- Fixed botched normal map names for a few parts
+- Extras/LFO patch now converts orbital engine integrated tanks to LF/O as well
+
+v0.6.1
+------
+- Fixed incorrect part names on some engines
+- Fixed swapped FL-R-B3000 and FL-R-B750 costs
+- Fixed accidentally included skirt node of mk4 pod
+- Updated deprecated part loading
+- Added an optional Extras patch to make the orbital engines use LFO!
+
+v0.6.0
+------
+- Marked for KSP 1.2.2
+- Fixed missing NearFutureProps distribution
+- Added Mk4-1 Command Pod, 7-kerbal large command pod
+- Added LV-85 Orbital Maneuvering Engine: 0.625m monopropellant engine that replaces LV-T95 engine
+- Added LV-601 Orbital Maneuvering Engine: 1.25m monopropellant engine
+- Added LV-85-6 Orbital Maneuvering Engine Cluster: 2.5m monopropellant engine that replaces LV-T95x8 engine
+- Added LV-601-4 Orbital Maneuvering Engine Cluster: 3.75m monopropellant engine that replaces LV-T18 engine
+- Added FL-R-A750, FL-R-A375, FL-R-A185 1.25m Monopropellant tanks
+- Added FL-R-B750, FL-R-B1500, FL-R-B3000 2.5m Monopropellant tanks
+- Added FL-R-C1500, FL-R-C3000, FL-R-C6000 3.75m Monopropellant tanks
+- Added SD-01 and SD-02 radial engine pods
+- Improved cargo bay shielding boxes for 3.75m service tank
+- Soft-deprecated LV-T95, LV-T95x8, LVT18 engines (will not break ships, no longer visible in VAB/SPH)
+
+
+v0.5.4
+------
+- Marked for KSP 1.2.1
+- USI-LS compatibility patch update
+- Added 'nearfuture' search tag to parts that were missing it
+- Fixed some description typos
+- Tweaked cost of RCS thrusters
+- Added RX-55 RCS block (5 nozzles)
+- Added RX-45 RCS block (4 nozzles)
+- Added RX-15 RCS block (3 nozzles)
+
+v0.5.3
+------
+- Parts with window lights are now properly tied to the global Light action group
+- Changed LT-POD landing leg to Ground category
+- Added audio cues to LT-POD landing leg
+- Fixed orientation of LT-POD landing foot
+- Improved general performance of LT-POD landing foot, still not perfect but progressing
+- Mk 3-9 pod flag transform is no longer visible on the part icon
+- Fixed strange colliders on 2.5m service tank
+- Disabled surface attachment on doors of 3.75m service tank
+
+v0.5.2
+------
+- KSP 1.2
+- Changed service tanks to Payload category
+- Converted RCS blocks to ModuleRCSFX, adds 1.2 sounds and FX
+
+v0.5.1
+------
+- KSP 1.1.3
+- Reexported collider of PPD-1 command pod
+
+v0.5.0
+------
+- KSP 1.1.2
+- Fixed LT-POD landing leg functionality
+- Fixed missing node in LV-T95 cfg (fixes intermittent model load problem)
+- Fixed too-high thrust on RX-30 RCS block
+- Removed second redundant attach node from PPD-1 command pod
+- Reduced mass of PPD-25 to 1.25t
+- Increased EC storage of Mk 3-9 command pod
+- Added blocking meshes to IVAs (initial pass, don't hurt me)
+- Added missing bulkhead profiles to some parts
+- Added part search tags to all parts
+
+v0.4.5
+------
+- Fixed AVC naming
+
+v0.4.4
+------
+- KSP 1.05
+- Fixed a few major RPM issues
+- Added Mini-AVC versioning
+
+v0.4.3
+------
+- Adjusted 1.04 engine heat parameters
+- Added kerbas_ad_astra's workaround to fix service bay shielding
+
+v0.4.2
+------
+- Fixed orientation of service pod IVA
+- Fixed podded landing leg missing meshes issue
+- Fixed podded landing leg feet sinking into the ground
+- Fixed missing .dds mipmaps for many parts
+- Added endcap colliders for service bays, improves part shielding
+- Reduced mass of Mk3-9 pod to 2.1, reduced crash tolerance to 14, increased cost to 5600
+
+v0.4.1
+------
+- CTT 2.0 update
+- Fixed scaling method error on RV-105 RCS Thruster Block (for real this time)
+- Slightly reduced diameter of Mk3-9 command node bottom
+- Increased the size of the shroud area on the LV-T95x8, should make it easier to attach things to the other node
+- Fixed RPM patch for Mk3-9
+
+v0.4.0
+------
+- Updated to KSP version 1.0
+- Converted all textures to DDS format
+- Removed packaged RasterPropMonitor
+- Updated NearFutureProps package
+- Reduced mass of PPD-24 to 1.5t
+- Removed SAS from PPD-1 and Multipurpose Fuel Tank
+- Singificantly cut RAM footprint of Near Future Props package
+- Added IVA for PPD-1
+-- Still not quite there yet but getting there
+- Mk3-9 IVA improved
+-- Corrected orientation and location of IVA root
+-- Added the small windows to possible clickable view, improved camera locations
+-- Added window meshes
+-- Removed RPM-dependant IVA, now loads a stock IVA when RPM is not present
+- Improved clickability of hatches on PPD-1, PPD-24
+- Improved ladder collider positioning on all objects
+- Remodelled Mk3-9 pod
+-- Now has 1.25m attach node at the top
+-- Improved colliders, hatch detection
+- FL-T6000 Fuel Tank is now the FL-T6000 Service Tank
+-- New model + texture
+-- Added openable cargo compartment
+-- Reblanced mass/contents
+- Added FL-T9000 Service tank (3.75m)
+- LV-T95-8 engine
+-- Can no longer attach parts to nozzles, engine cannot be surface attached
+-- Fixed offset thrust, broken exhaust damage, broken normal map
+-- Added to part test list
+-- New FX and emissives
+-- Now generates small amount of electricity when running
+- Added LV-T18 3.75m engine cluster (high efficiency vacuum)
+- Added LV-T95 0.625m engine (high efficiency vacuum)
+- Fixed scaling method error on RV-105 RCS Thruster Block
+- Added RX-1 Linear RCS Thruster (1 nozzle, orbital)
+- Added RX-15 Bidirectional RCS Thruster Block (45-degree, 2 nozzle, orbital)
+- Added RX-30 Bidirectional RCS Thruster Block (45-degree, 4 nozzle, orbital)
+
+v0.3.1
+------
+- Added support for the Community Tech Tree
+- CLS patch: Made the Mk3-9 pod's top node impassable
+
+v0.3.0
+------
+- WARNING: Delete old NearFutureSpacecraft folder first! Moved props for IVAs to seperate pack!
+- Updated for KSP 0.25
+- Updated part research entry costs
+- Changed part cfg file names (no changes to actual part names)
+- Converted all tga textures to mbm for improved memory use
+- Added normals and texture tweaks to PPD-1 Heavy Command Pod
+- Fixed PPD-1 colliders
+- Mk3-9, Itinerant and PPD-1 have integrated lit windows
+- Added flag decals to Itinerant and Mk3-9
+- Added a ModuleManager patch to add Connected Living Spaces compatibility to all passable parts. ModuleManager is not included in the download
+
+v0.2.1
+------
+- Added PPD-1 Heavy Command Pod
+
+v0.2.0
+------
+- WARNING: SAVE BREAKING UPDATE
+- Updated to KSP 0.24
+- Updated RPM distribution to 0.18
+- Added proper IVA for PPD-24 pod (still WIP)
+- Fixed LT-POD landing leg function, removed blue texture tint
+- Improved textures for the FL-T6000 fuel tank
+- New model and function for RV-105AT RCS block (now 5-way, more shielded)
+- New model for LVT85x8 engine, including heat animation
+- Improved vacuum Isp and reduced atmospheric Isp of LVT85x8 engine
+
+v0.1.1
+------
+- Fixed some useless textures included in the download
+- Added missing low resolution textures
+
+v0.1.0
+------
+- Split from main Near Future Pack
+- Completely new IVA for the Mk3-9 Command pod (though it's still heavily WIP)
+- Fixed mesh errors and smoothing group mismatches on Mk3-9 Command Pod
+- Fixed incorrect orientation of the Mk3-9 IVA
+- Fixed offset thrust on the LV-T85-8 Landing Engine
+- Fixed missing sound on the LV-T85-8 Landing Engine
+- Improved the functioning of the LT-POD landing leg (too soon to call it fixed though)
