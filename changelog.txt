@@ -1,3 +1,14 @@
+v1.3.2
+------
+- KSP 1.10.x
+- Updated NearFutureProps to 0.6.3
+- Updated B9PartSwitch to 2.17.0
+- Updated ModuleManager to 4.1.4
+- Adjusted a description to indicate that the Hummingbird does not get a podded variant (LouisB3)
+- Various heatshield tweaks and tunings, including a patch for JNSQ reentries (Rodger)
+- Improved Snacks! support (Michael Paul)
+- Improved KerbalHealth support (LouisB3)
+
 v1.3.1
 ------
 - KSP 1.9.x
