@@ -1,3 +1,13 @@
+v1.4.0
+------
+- KSP 1.11
+- Updated NearFutureProps to 0.6.4
+- Added inventories to all command parts
+- Set up appropriate parts for cargo, etc
+- Upgraded Pandora docking light to new light system
+- Added Waterfall support to Pandora light
+- Added Waterfall support to engines
+
 v1.3.3
 ------
 - Fixed IVA portraits on Mk3-9 pod
