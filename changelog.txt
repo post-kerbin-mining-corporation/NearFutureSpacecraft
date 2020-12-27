@@ -1,3 +1,7 @@
+v1.4.1
+------
+- Config hack to make cargo parts work in KSP 1.10.x
+
 v1.4.0
 ------
 - KSP 1.11
