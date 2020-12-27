@@ -5,7 +5,7 @@
     "$vref": "#/ckan/ksp-avc",
     "name": "Near Future Spacecraft",
     "abstract": "New command pods, control systems and engines for crewed spacecraft",
-    "author"              : "Chris Adderley (Nertea)",
+    "author": "Nertea (Chris Adderley)",
     "license": "restricted",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
