@@ -11,10 +11,10 @@ dependencies:  # Configure dependencies
     version: 4.1.4
     location: s3
   B9PartSwitch:
-    version: 2.17.0
+    version: 2.18.0
     location: s3
   NearFutureProps:
-    tag: 0.6.4
+    tag: 0.6.5
     location: github
     repository: post-kerbin-mining-corporation/NearFutureProps
 deploy:
