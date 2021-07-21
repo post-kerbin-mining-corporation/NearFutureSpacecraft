@@ -1,3 +1,10 @@
+v1.4.2
+------
+- KSP 1.11
+- Updated NearFutureProps to 0.6.5
+- Updated B9PartSwitch to 2.18.0
+- Fixed an issue with Waterfall light on Pandora pod
+
 v1.4.1
 ------
 - Config hack to make cargo parts work in KSP 1.10.x
