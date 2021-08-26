@@ -1,3 +1,12 @@
+v1.4.3
+------
+- KSP 1.12
+- Updated ModuleManager to 4.2.1
+- Updated NearFutureProps to 0.6.5
+- Added docking rotation functions to tiny shielded port
+- Ajusted kerbal viewpoints for Nereid pod, should clip less
+- Added more buoyancy to Nereid, should float ok with heatshield, chute and engines attached 
+
 v1.4.2
 ------
 - KSP 1.11
