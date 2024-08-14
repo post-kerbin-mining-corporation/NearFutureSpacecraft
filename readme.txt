@@ -9,9 +9,9 @@ DEPENDENCIES
 ============
 
 Required
-- NearFutureProps (0.6.5)
-- B9 Part Switch (2.18.0)
-- ModuleManager (4.2.1)
+- NearFutureProps (0.7.2)
+- B9 Part Switch (2.20.0)
+- ModuleManager (4.2.3)
 
 Optional
 - Community Tech Tree (v2.0+)
@@ -41,6 +41,7 @@ This mod includes localization support, and includes translations for
 - Simplified Chinese (Sonkin)
 - German (Three_Pounds and LeLeon)
 - French (don-vip)
+- Japanese (Yark-Aki)
 
 =========
 LICENSING
