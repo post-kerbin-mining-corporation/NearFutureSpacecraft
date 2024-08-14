@@ -1,3 +1,13 @@
+
+v1.4.4
+------
+- Updated ModuleManager to 4.2.3
+- Updated NearFutureProps to 0.7.2
+- Updated B9PartSwitch to 2.20.0
+- Added Japanese translation (Yark-Aki)
+- Tweak the position of the Proteus hatch (#161)
+- Add support for VABOrganizer
+
 v1.4.3
 ------
 - KSP 1.12
