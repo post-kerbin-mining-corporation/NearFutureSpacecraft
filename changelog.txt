@@ -1,3 +1,6 @@
+v1.4.5
+------
+- Fixed a export error replacing the 1.25m orbital pod with the regular pod mesh
 
 v1.4.4
 ------
