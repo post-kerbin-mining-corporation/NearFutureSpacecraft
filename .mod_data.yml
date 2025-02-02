@@ -22,7 +22,7 @@ deploy:
     enabled: true  # activate/deactivate this deployment script
     mod-id: 708  # The Spacedock mod ID for deployment
   CurseForge:
-    enabled: true  # activate/deactivate this deployment script
+    enabled: false  # activate/deactivate this deployment script
     mod-id: 220677  # The CurseForge mod ID for deployment
   GitHub:
     enabled: true  # activate/deactivate this deployment script
