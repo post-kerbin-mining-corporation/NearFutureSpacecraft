@@ -1,3 +1,10 @@
+v1.4.6
+------
+- Removed the Nereid and Tethys command pods and the Chickadee engines.
+ - They are soft-deprecated so crafts in flight will not be affected. 
+ - The reasons for doing this should be evident. 
+ - They may be replaced in the future by different designs
+
 v1.4.5
 ------
 - Fixed a export error replacing the 1.25m orbital pod with the regular pod mesh
